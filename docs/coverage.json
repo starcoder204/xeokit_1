@@ -1,0 +1,334 @@
+{
+  "coverage": "33.45%",
+  "expectCount": 278,
+  "actualCount": 93,
+  "files": {
+    "src/BIMViewer.js": {
+      "expectCount": 78,
+      "actualCount": 49,
+      "undocumentLines": [
+        26,
+        68,
+        98,
+        195,
+        211,
+        215,
+        221,
+        228,
+        235,
+        242,
+        247,
+        252,
+        257,
+        262,
+        267,
+        272,
+        278,
+        283,
+        288,
+        364,
+        367,
+        470,
+        472,
+        473,
+        510,
+        947,
+        998,
+        1007,
+        1119
+      ]
+    },
+    "src/BusyModal.js": {
+      "expectCount": 7,
+      "actualCount": 1,
+      "undocumentLines": [
+        6,
+        16,
+        22,
+        26,
+        32,
+        37
+      ]
+    },
+    "src/contextMenus/CanvasContextMenu.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/contextMenus/ModelsContextMenu.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        7
+      ]
+    },
+    "src/contextMenus/ObjectContextMenu.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/contextMenus/TreeViewContextMenu.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        10
+      ]
+    },
+    "src/Controller.js": {
+      "expectCount": 26,
+      "actualCount": 14,
+      "undocumentLines": [
+        12,
+        13,
+        14,
+        16,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        194
+      ]
+    },
+    "src/explorer/ClassesExplorer.js": {
+      "expectCount": 16,
+      "actualCount": 1,
+      "undocumentLines": [
+        6,
+        11,
+        31,
+        32,
+        33,
+        34,
+        42,
+        49,
+        80,
+        92,
+        103,
+        115,
+        119,
+        124,
+        128
+      ]
+    },
+    "src/explorer/ModelsExplorer.js": {
+      "expectCount": 33,
+      "actualCount": 2,
+      "undocumentLines": [
+        8,
+        13,
+        29,
+        30,
+        31,
+        32,
+        38,
+        42,
+        44,
+        45,
+        46,
+        49,
+        63,
+        73,
+        118,
+        125,
+        136,
+        145,
+        160,
+        169,
+        190,
+        194,
+        198,
+        279,
+        297,
+        306,
+        310,
+        314,
+        318,
+        322,
+        326
+      ]
+    },
+    "src/explorer/ObjectsExplorer.js": {
+      "expectCount": 16,
+      "actualCount": 1,
+      "undocumentLines": [
+        6,
+        11,
+        31,
+        32,
+        33,
+        34,
+        42,
+        49,
+        80,
+        92,
+        103,
+        115,
+        119,
+        124,
+        128
+      ]
+    },
+    "src/explorer/StoreysExplorer.js": {
+      "expectCount": 18,
+      "actualCount": 1,
+      "undocumentLines": [
+        6,
+        11,
+        31,
+        32,
+        33,
+        34,
+        42,
+        49,
+        81,
+        91,
+        103,
+        115,
+        119,
+        124,
+        128,
+        143,
+        184
+      ]
+    },
+    "src/IFCObjectDefaults/ModelIFCObjectColors.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/IFCObjectDefaults/ViewerIFCObjectColors.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/server/Server.js": {
+      "expectCount": 9,
+      "actualCount": 8,
+      "undocumentLines": [
+        19
+      ]
+    },
+    "src/toolbar/FirstPersonMode.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/toolbar/FitAction.js": {
+      "expectCount": 8,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        9,
+        43,
+        52,
+        56,
+        60,
+        64
+      ]
+    },
+    "src/toolbar/HideTool.js": {
+      "expectCount": 8,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        12,
+        56,
+        58,
+        69,
+        80,
+        87
+      ]
+    },
+    "src/toolbar/NavCubeMode.js": {
+      "expectCount": 4,
+      "actualCount": 1,
+      "undocumentLines": [
+        7,
+        17,
+        30
+      ]
+    },
+    "src/toolbar/OrthoMode.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/toolbar/QueryTool.js": {
+      "expectCount": 8,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        12,
+        54,
+        58,
+        69,
+        80,
+        90
+      ]
+    },
+    "src/toolbar/ResetAction.js": {
+      "expectCount": 9,
+      "actualCount": 1,
+      "undocumentLines": [
+        5,
+        10,
+        21,
+        61,
+        81,
+        90,
+        94,
+        106
+      ]
+    },
+    "src/toolbar/SectionTool.js": {
+      "expectCount": 7,
+      "actualCount": 1,
+      "undocumentLines": [
+        7,
+        17,
+        61,
+        62,
+        74,
+        78
+      ]
+    },
+    "src/toolbar/SelectionTool.js": {
+      "expectCount": 8,
+      "actualCount": 1,
+      "undocumentLines": [
+        5,
+        13,
+        55,
+        59,
+        70,
+        81,
+        91
+      ]
+    },
+    "src/toolbar/ThreeDMode.js": {
+      "expectCount": 8,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        9,
+        17,
+        19,
+        41,
+        74,
+        116
+      ]
+    }
+  }
+}
